@@ -1,0 +1,2 @@
+#!/bin/bash
+sh archfi -cpl {https://raw.githubusercontent.com/win95peko/archfi-custom/main/samples/custompackagelist}
